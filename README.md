@@ -15,7 +15,7 @@
 
 * HTML5 
 * CSS3 
-* jQuery
+* JavaScript
 
 ## Setup
 Can be installed by github repository,
